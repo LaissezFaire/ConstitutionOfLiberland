@@ -33,6 +33,7 @@ __Hypothéses__
 
 ## Titre 6 - Du judiciaire
 1. Tout jugement peut faire l'objet d'un recours.
+1. Chacun est pleinement responsables de ses actes, qu'ils soient commis directement, ou par le moyen d'une personne morale.
 1. Tout recours au pénal peut, par une demande à priori de l'accusé, faire appel à un jury de 12 citoyens tirés au sort dans la province de son choix ou sur l'ensemble de la fédération.
 1. le jury peut réduire ou supprimer toute sanction pénale décidée par les arbitres.
 1. Les litiges entre provinces sont tranchés par l'éxécutif fédéral à la demande de l'une d'elle, ou par les arbitres de leur choix commun.
