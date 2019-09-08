@@ -6,7 +6,7 @@ __Hypothéses__
 # Constitution fédérale du Liberland
 
 ## Titre 1 - Du territoire
-1. La fédération du libertland est constitué de provinces
+1. La fédération du libertland est constitué de la province du Liberland et de toutes autres ultérieurement ratachées.
 1. Une province est rataché au Liberland si ses citoyens, et ceux du liberland votent chacun dans ce sens, par un double référendum.
 1. Une province peut faire secession du Liberland par un référendum initié par ses citoyens.
 1. Une province peut être exclue de la fédération par un référendum initié par une pétition signée des citoyens de chacune des autres provinces.
