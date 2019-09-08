@@ -44,9 +44,9 @@ __Hypothéses__
 1. Les recettes excédentaires éventuelles sont épargnées, éligibles au financement de projets futurs.
 1. En situation d'urgence l'épargne fédérale peut être utilisée à l'unanimité de l'exécutif, son usage devra être validées à postériori par référendum dans l'année qui suit, ou remboursé par les membres de l'executif.
 
-## Titre 8 - Des voies de circulation
+## Titre 8 - Liberté de circulation et de construction
 1. Sauf accord entre les propriétaires et l'exécutif, la distance entre deux propriétés privées est de cinq mêtres au moins.
-1. Elles sont gérées par l'exécutif.
+1. Les voix de circulation sont gérées par l'exécutif.
 1. Nul citoyen ne peut être empéché d'y circuler durablement sauf par une condamnation judiciaire.
 
 ## Titre 9 - Du droit de posséder des armes
